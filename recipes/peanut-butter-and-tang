@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Peanut Butter and Tang&#174</title>
+    </head>
+
+    <body>
+        <h1>Peanut Butter and Tang&#174 Sandwich</h1>
+        <p>This is good old fashioned, space-age comfort food. Make it anytime you want something quick and tasty. I invented this when I was a teenager. It never gets old.</p>
+    
+        <h2>Ingredients</h2>
+        <ul>
+            <li>2 peices of bread. White, wheat, whatever suits you.</li>
+            <li>Peanut butter. Smooth or crunchy, you decide.</li>
+            <li>Tang&#174. Generic knockoffs are allowed, but not encouraged.</li>
+        </ul>
+
+        <h2>Preparation</h2>
+
+        <ol>
+            <li>Spread peanut butter on both pieces of bread.</li>
+            <li>Sprinkle dry Tang&#174 generously on one of the pieces.</li>
+            <li>Place the other slice of bread on top of the first so that the Tang&#174 is sandwiched (Get it?) between the peanut butter.</li>
+            <li>Hold the sandwich vertically over the sink and shake off the excess Tang&#174.</li>
+            <li>Serve with a glass of cold milk.</li>
+        </ol>
+    </body>
+</html>
